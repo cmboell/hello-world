@@ -4,7 +4,7 @@ This is a demo
 
 
 
-**This is a blue line of words**
+**This is a bold line of words**
 
 _this is an italics_
 
